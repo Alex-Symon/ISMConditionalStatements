@@ -55,7 +55,7 @@ namespace WinFormTask1
                 return;
             }
             double r = (2 * Math.Cos(a * a) - 1 / 2.0) / (1 / 2.0 + Math.Sin(Math.Pow(b, 2 - c))) + c * c / (7 - c / 3);
-            res.Text = r.ToString();
+            res.Text = r.ToString("F2");
             
         }
 

@@ -20,7 +20,7 @@ namespace WinConsoleTask
                 Console.WriteLine("Значення z = ");
                 z = double.Parse(Console.ReadLine());
                 double r = (2 * Math.Cos(x * x) - 1 / 2.0) / (1 / 2.0 + Math.Sin(Math.Pow(y, 2 - z))) + z * z / (7 - z / 3);
-                Console.WriteLine("{0}", r);
+                Console.WriteLine("{0:N2}", r);
             }
             catch {
                 Console.WriteLine("Помилка введення");
