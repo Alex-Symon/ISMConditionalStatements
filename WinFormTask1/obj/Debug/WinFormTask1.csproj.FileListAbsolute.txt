@@ -1,0 +1,10 @@
+C:\Users\kylle\OneDrive\Desktop\ISM курси\ISMConditionalStatements\WinFormTask1\bin\Debug\WinFormTask1.exe.config
+C:\Users\kylle\OneDrive\Desktop\ISM курси\ISMConditionalStatements\WinFormTask1\bin\Debug\WinFormTask1.exe
+C:\Users\kylle\OneDrive\Desktop\ISM курси\ISMConditionalStatements\WinFormTask1\bin\Debug\WinFormTask1.pdb
+C:\Users\kylle\OneDrive\Desktop\ISM курси\ISMConditionalStatements\WinFormTask1\obj\Debug\WinFormTask1.csprojAssemblyReference.cache
+C:\Users\kylle\OneDrive\Desktop\ISM курси\ISMConditionalStatements\WinFormTask1\obj\Debug\WinFormTask1.Form1.resources
+C:\Users\kylle\OneDrive\Desktop\ISM курси\ISMConditionalStatements\WinFormTask1\obj\Debug\WinFormTask1.Properties.Resources.resources
+C:\Users\kylle\OneDrive\Desktop\ISM курси\ISMConditionalStatements\WinFormTask1\obj\Debug\WinFormTask1.csproj.GenerateResource.cache
+C:\Users\kylle\OneDrive\Desktop\ISM курси\ISMConditionalStatements\WinFormTask1\obj\Debug\WinFormTask1.csproj.CoreCompileInputs.cache
+C:\Users\kylle\OneDrive\Desktop\ISM курси\ISMConditionalStatements\WinFormTask1\obj\Debug\WinFormTask1.exe
+C:\Users\kylle\OneDrive\Desktop\ISM курси\ISMConditionalStatements\WinFormTask1\obj\Debug\WinFormTask1.pdb

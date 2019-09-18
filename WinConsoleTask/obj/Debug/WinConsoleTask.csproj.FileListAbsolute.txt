@@ -1,0 +1,7 @@
+C:\Users\kylle\OneDrive\Desktop\ISM курси\ISMConditionalStatements\WinConsoleTask\bin\Debug\WinConsoleTask.exe.config
+C:\Users\kylle\OneDrive\Desktop\ISM курси\ISMConditionalStatements\WinConsoleTask\bin\Debug\WinConsoleTask.exe
+C:\Users\kylle\OneDrive\Desktop\ISM курси\ISMConditionalStatements\WinConsoleTask\bin\Debug\WinConsoleTask.pdb
+C:\Users\kylle\OneDrive\Desktop\ISM курси\ISMConditionalStatements\WinConsoleTask\obj\Debug\WinConsoleTask.csprojAssemblyReference.cache
+C:\Users\kylle\OneDrive\Desktop\ISM курси\ISMConditionalStatements\WinConsoleTask\obj\Debug\WinConsoleTask.csproj.CoreCompileInputs.cache
+C:\Users\kylle\OneDrive\Desktop\ISM курси\ISMConditionalStatements\WinConsoleTask\obj\Debug\WinConsoleTask.exe
+C:\Users\kylle\OneDrive\Desktop\ISM курси\ISMConditionalStatements\WinConsoleTask\obj\Debug\WinConsoleTask.pdb
